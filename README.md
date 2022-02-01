@@ -19,4 +19,4 @@ This project is a social media back-end API. It allows users to share their thou
  * To start the application once everything is installed you can run ```npm start``` to start the process and create your network
 
  ## Demo
- You can view a walkthrough video of the app [Walkthrough Video](https://drive.google.com/file/d/1rlEWKrbl8kTYETMCiNlu90iErFV4CkIC/view)
+ You can view a walkthrough video of the app here [Walkthrough Video](https://drive.google.com/file/d/1rlEWKrbl8kTYETMCiNlu90iErFV4CkIC/view)
